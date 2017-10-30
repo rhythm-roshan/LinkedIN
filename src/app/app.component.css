@@ -1,0 +1,16 @@
+body{
+  background-image: url("img.jpg");
+  background-color: #4d4d4d ;
+
+}
+
+ul li{
+  display: inline;
+}
+
+
+.changecolor
+{
+  background:   #4d4d4d ;
+}
+
